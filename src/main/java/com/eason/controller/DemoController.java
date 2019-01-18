@@ -1,7 +1,7 @@
-package com.creditease.controller;
+package com.eason.controller;
 
-import com.creditease.pojo.Code;
-import com.creditease.service.DemoService;
+import com.eason.pojo.Code;
+import com.eason.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

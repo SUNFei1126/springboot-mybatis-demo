@@ -1,4 +1,4 @@
-package com.creditease.pojo;
+package com.eason.pojo;
 
 import java.math.BigDecimal;
 import java.util.Date;

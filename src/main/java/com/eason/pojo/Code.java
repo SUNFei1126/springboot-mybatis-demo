@@ -1,4 +1,4 @@
-package com.creditease.pojo;
+package com.eason.pojo;
 
 public class Code {
     /**

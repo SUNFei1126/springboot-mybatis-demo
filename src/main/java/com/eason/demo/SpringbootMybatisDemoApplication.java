@@ -1,4 +1,4 @@
-package com.creditease.demo;
+package com.eason.demo;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
@@ -16,8 +16,8 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ServletComponentScan
 @EnableAutoConfiguration
 @SpringBootApplication
-@MapperScan("com.creditease.dao")
-@ComponentScan(basePackages = {"com.creditease.*"})
+@MapperScan("com.eason.dao")
+@ComponentScan(basePackages = {"com.eason.*"})
 public class SpringbootMybatisDemoApplication {
 
     public static void main(String[] args) {

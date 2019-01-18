@@ -1,6 +1,6 @@
-package com.creditease.dao;
+package com.eason.dao;
 
-import com.creditease.pojo.Proxys;
+import com.eason.pojo.Proxys;
 
 public interface ProxysMapper {
     /**

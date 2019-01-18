@@ -1,6 +1,6 @@
-package com.creditease.dao;
+package com.eason.dao;
 
-import com.creditease.pojo.Code;
+import com.eason.pojo.Code;
 
 public interface CodeMapper {
     /**

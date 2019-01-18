@@ -1,4 +1,4 @@
-package com.creditease.demo;
+package com.eason.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
